@@ -1,0 +1,14 @@
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Application.deps.json
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Application.dll
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Application.pdb
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Database.dll
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\bin\Debug\netstandard2.0\Database.pdb
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.dll
+D:\project\Simlabs_miniProjrct2\project5\test4\Shop\Application\obj\Debug\netstandard2.0\Application.pdb

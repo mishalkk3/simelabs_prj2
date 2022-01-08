@@ -1,0 +1,30 @@
+@page
+@model PaymentModel
+@{
+}
+
+<div class="columns">
+    <div class="column is-6">
+        <p class="title">Payment</p>
+        <form method="post" id="payment-form">
+            <div class="field">
+                <div class="form-row">
+                    <div id="card-element">
+                        <!-- A Stripe Element will be inserted here. -->
+                    </div>
+
+                    <!-- Used to display form errors. -->
+                    <div id="card-errors" role="alert"></div>
+                </div>
+            </div>
+            <div class="field has-text-right">
+                <button class="button is-success">Pay</button>
+            </div>
+        </form>
+
+    </div>
+    <div class="column is-6">
+        <vc:cart view="Default"></vc:cart>
+    </div>
+</div>
+
